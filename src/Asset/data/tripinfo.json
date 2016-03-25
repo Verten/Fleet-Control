@@ -1,0 +1,213 @@
+{
+  "trips":[
+    {
+      "id":"tripid_1",
+      "vehicle": {
+        "id":"728e978a-c7bf-4822-81ba-16a5176fc428",
+        "created":1457923103695,
+        "lastModified":1457940103948,
+        "vin":"hb-0001",
+        "externalId":null,
+        "type":"Type",
+        "driver":{
+          "b1a64846-5a3f-4e7b-8fb2-5784a880055a": {
+            "addedPermissions":null,
+            "country":null,
+            "created":1457939896723,
+            "emailAddress":"bin.hong@ericsson.com",
+            "enabled":true,
+            "firstName":"bin",
+            "id":"b1a64846-5a3f-4e7b-8fb2-5784a880055a",
+            "lastModified":1457939947297,
+            "lastName":"hong",
+            "market":"DE",
+            "middleName":null,
+            "password":"51afb9445af37c3fbf0a963fca6a6e22c963df4877aa898a0a9b5968625e57d8",
+            "phoneNumber":"13560079730",
+            "removedPermissions":null,
+            "role":"DRIVER",
+            "salt":"4ams6o5tajp2n484cgkctsditd",
+            "street":"tianhe",
+            "town":"GuangZhou",
+            "username":"hb",
+            "zip":"510665"
+          }
+        },
+        "fleet":"ef774277-8251-4164-b639-cfe21ef4b94a",
+        "vehicleGroup":null,
+        "enterprise":"42d50fb2-e511-409c-8bb4-42bccba8aafb",
+        "brand":"A car",
+        "build":"201409",
+        "model":"Various labels1",
+        "fuel":"diesel",
+        "gearbox":"automatic",
+        "drivewheel":"rear-wheel drive",
+        "color":"azure blue",
+        "my":null,
+        "registration":null,
+        "active":true
+      },
+      "route": {
+        "startPoint":{
+          "address":"广州 1",
+          "latitude":23.1312183,
+          "longitude":113.27067570000001
+        },
+        "destination":{
+          "address":"广州 2",
+          "latitude":23.1312983,
+          "longitude":113.23067570006001
+        }
+      },
+      "plannedStartTime":"2016-03-23 12:05:00",
+      "plannedArriveTime":"2016-03-23 16:00:00",
+      "actualStartTime":"2016-03-23 12:15:00",
+      "actualArriveTime":"2016-03-23 16:05:00",
+      "location":{
+        "latitude":"",
+        "longitude":""
+      },
+      "cargo":{
+        "type":{
+          "id":"",
+          "description":""
+        },
+        "name":"",
+        "quantity":"",
+        "uom":""
+      },
+      "sensors":{
+        "id":"",
+        "sensorType":"",
+        "standardValue":"",
+        "minThreshold":"",
+        "maxThreshold":""
+      },
+      "status":"assigned"
+    },
+    {
+      "id":"tripid_2",
+      "vehicle": {
+        "id":"728e978a-c7bf-4822-81ba-16a5176fc428",
+        "created":1457923103695,
+        "lastModified":1457940103948,
+        "vin":"hb-0002",
+        "externalId":null,
+        "type":"Type",
+        "driver":null,
+        "fleet":"ef774277-8251-4164-b639-cfe21ef4b94b",
+        "vehicleGroup":null,
+        "enterprise":"42d50fb2-e511-409c-8bb4-42bccba8aafb",
+        "brand":"A car",
+        "build":"201409",
+        "model":"Various labels2",
+        "fuel":"diesel",
+        "gearbox":"automatic",
+        "drivewheel":"rear-wheel drive",
+        "color":"azure blue",
+        "my":null,
+        "registration":null,
+        "active":true
+      },
+      "route": {
+        "startPoint":{
+          "address":"广州 1",
+          "latitude":23.1012183,
+          "longitude":113.21067570000001
+        },
+        "destination":{
+          "address":"广州 2",
+          "latitude":23.1382983,
+          "longitude":113.29067570006001
+        }
+      },
+      "plannedStartTime":"",
+      "plannedArriveTime":"",
+      "actualStartTime":"",
+      "actualArriveTime":"",
+      "location":{
+        "latitude":"",
+        "longitude":""
+      },
+      "cargo":{
+        "type":{
+          "id":"",
+          "description":""
+        },
+        "name":"",
+        "quantity":"",
+        "uom":""
+      },
+      "sensors":{
+        "id":"",
+        "sensorType":"",
+        "standardValue":"",
+        "minThreshold":"",
+        "maxThreshold":""
+      },
+      "status":"started"
+    },
+    {
+      "id":"tripid_3",
+      "vehicle": {
+        "id":"728e978a-c7bf-4822-81ba-16a5176fc428",
+        "created":1457923103695,
+        "lastModified":1457940103948,
+        "vin":"hb-0003",
+        "externalId":null,
+        "type":"Type",
+        "driver":null,
+        "fleet":"ef774277-8251-4164-b639-cfe21ef4b94c",
+        "vehicleGroup":null,
+        "enterprise":"42d50fb2-e511-409c-8bb4-42bccba8aafb",
+        "brand":"A car",
+        "build":"201409",
+        "model":"Various labels3",
+        "fuel":"diesel",
+        "gearbox":"automatic",
+        "drivewheel":"rear-wheel drive",
+        "color":"azure blue",
+        "my":null,
+        "registration":null,
+        "active":true
+      },
+      "route": {
+        "startPoint":{
+          "address":"广州 1",
+          "latitude":23.1912183,
+          "longitude":113.20067570000001
+        },
+        "destination":{
+          "address":"广州 2",
+          "latitude":23.1312983,
+          "longitude":113.23067570006001
+        }
+      },
+      "plannedStartTime":"",
+      "plannedArriveTime":"",
+      "actualStartTime":"",
+      "actualArriveTime":"",
+      "location":{
+        "latitude":"",
+        "longitude":""
+      },
+      "cargo":{
+        "type":{
+          "id":"",
+          "description":""
+        },
+        "name":"",
+        "quantity":"",
+        "uom":""
+      },
+      "sensors":{
+        "id":"",
+        "sensorType":"",
+        "standardValue":"",
+        "minThreshold":"",
+        "maxThreshold":""
+      },
+      "status":"closed"
+    }
+  ]
+}
